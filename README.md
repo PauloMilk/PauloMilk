@@ -1,16 +1,24 @@
-### Hi there 👋
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Paulo Costa</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PauloMilk&color=yellow" alt="Profile views" /> </p>
 
-<!--
-**PauloMilk/PauloMilk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔥 Sênior Backend Developer 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working at [iFood](https://www.ifood.com.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about **JavaScript, Kotlin, Typescript, Java, Node.JS, Architecture**
+
+- 👨‍💻 More at [pauloleite.dev](https://pauloleite.dev)
+
+<br><br>
+
+## Contact
+
+<p align="left" style="background:yellow">
+
+<a href="https://www.linkedin.com/in/pauloleitecosta/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-pauloleitecosta-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://www.youtube.com/channel/UCfJ1wTqEcY-LsYnxx-jo9DQ" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-pauloleitecosta-05122A?style=flat&logo=youtube" alt="youtube"/>
+</a>
+</p>
